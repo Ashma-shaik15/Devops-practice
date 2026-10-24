@@ -1,4 +1,4 @@
-# Byte-compiled / optimized / DLL files
+#Create a file with all passwords and make that untrackable with git password. Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
 *$py.class
